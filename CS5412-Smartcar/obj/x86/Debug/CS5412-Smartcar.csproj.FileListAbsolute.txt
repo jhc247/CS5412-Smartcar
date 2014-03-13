@@ -1,0 +1,5 @@
+C:\Users\Jcard\Documents\GitHub\CS5412-Smartcar\CS5412-Smartcar\bin\Debug\CS5412-Smartcar.exe
+C:\Users\Jcard\Documents\GitHub\CS5412-Smartcar\CS5412-Smartcar\bin\Debug\CS5412-Smartcar.pdb
+C:\Users\Jcard\Documents\GitHub\CS5412-Smartcar\CS5412-Smartcar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jcard\Documents\GitHub\CS5412-Smartcar\CS5412-Smartcar\obj\x86\Debug\CS5412-Smartcar.exe
+C:\Users\Jcard\Documents\GitHub\CS5412-Smartcar\CS5412-Smartcar\obj\x86\Debug\CS5412-Smartcar.pdb
